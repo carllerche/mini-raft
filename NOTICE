@@ -1,0 +1,6 @@
+Mini Raft
+Copyright 2022 Carl Lerche
+
+The Initial Developer of some parts of the library, primarily comments, which
+are copied from, derived from, or inspired by raft-rs (github.com/tikv/raft-rs),
+is TiKV Project Authors. Copyright 2019 TiKV Project Authors.

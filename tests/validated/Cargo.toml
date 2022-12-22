@@ -1,0 +1,11 @@
+[package]
+name = "validated"
+version = "0.1.0"
+edition = "2021"
+publish = false
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+mini-raft = { path = "../../src/raft" }
+tokio = { version = "1.19", features = ["time"] }

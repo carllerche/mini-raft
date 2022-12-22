@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "src/raft",
+
+    # Tests
+    "tests/isolated",
+    "tests/simulated",
+    "tests/validated",
+]
+
+[patch.crates-io]
